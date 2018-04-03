@@ -1,0 +1,14 @@
+C:\Users\pkgai\source\repos\NrdAkademija\NrdAkademija.Web\bin\Debug\netcoreapp2.0\NrdAkademija.Web.deps.json
+C:\Users\pkgai\source\repos\NrdAkademija\NrdAkademija.Web\bin\Debug\netcoreapp2.0\NrdAkademija.Web.runtimeconfig.json
+C:\Users\pkgai\source\repos\NrdAkademija\NrdAkademija.Web\bin\Debug\netcoreapp2.0\NrdAkademija.Web.runtimeconfig.dev.json
+C:\Users\pkgai\source\repos\NrdAkademija\NrdAkademija.Web\bin\Debug\netcoreapp2.0\NrdAkademija.Web.dll
+C:\Users\pkgai\source\repos\NrdAkademija\NrdAkademija.Web\bin\Debug\netcoreapp2.0\NrdAkademija.Web.pdb
+C:\Users\pkgai\source\repos\NrdAkademija\NrdAkademija.Web\obj\Debug\netcoreapp2.0\NrdAkademija.Web.csprojResolveAssemblyReference.cache
+C:\Users\pkgai\source\repos\NrdAkademija\NrdAkademija.Web\obj\Debug\netcoreapp2.0\NrdAkademija.Web.csproj.CoreCompileInputs.cache
+C:\Users\pkgai\source\repos\NrdAkademija\NrdAkademija.Web\obj\Debug\netcoreapp2.0\NrdAkademija.Web.AssemblyInfoInputs.cache
+C:\Users\pkgai\source\repos\NrdAkademija\NrdAkademija.Web\obj\Debug\netcoreapp2.0\NrdAkademija.Web.AssemblyInfo.cs
+C:\Users\pkgai\source\repos\NrdAkademija\NrdAkademija.Web\obj\Debug\netcoreapp2.0\NrdAkademija.Web.dll
+C:\Users\pkgai\source\repos\NrdAkademija\NrdAkademija.Web\obj\Debug\netcoreapp2.0\NrdAkademija.Web.pdb
+C:\Users\pkgai\source\repos\NrdAkademija\NrdAkademija.Web\bin\Debug\netcoreapp2.0\NrdAkademija.Ef.dll
+C:\Users\pkgai\source\repos\NrdAkademija\NrdAkademija.Web\bin\Debug\netcoreapp2.0\NrdAkademija.Ef.pdb
+C:\Users\pkgai\source\repos\NrdAkademija\NrdAkademija.Web\obj\Debug\netcoreapp2.0\NrdAkademija.Web.csproj.CopyComplete
